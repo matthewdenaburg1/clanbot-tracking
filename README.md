@@ -12,7 +12,7 @@ We appreciate your help in making ClanBot better! Before submitting, please take
 
 If you've found a bug, please help us fix it by creating a detailed report.
 
-1. **Go to the [Issues tab](https://github.com/your-username/clanbot-tracker/issues)**.
+1. **Go to the [Issues tab](https://github.com/branjos/clanbot-tracking/issues)**.
 2. Click on the **"New issue"** button.
 3. If available, use the "Bug Report" template.
 4. Fill out the form with as much detail as possible, including:
@@ -26,7 +26,7 @@ If you've found a bug, please help us fix it by creating a detailed report.
 
 Have a great idea for a new feature or an enhancement to an existing one? We'd love to hear it!
 
-1. **Go to the [Issues tab](https://github.com/your-username/clanbot-tracker/issues)**.
+1. **Go to the [Issues tab](https://github.com/branjos/clanbot-tracking/issues)**.
 2. Click on the **"New issue"** button.
 3. If available, use the "Feature Request" template.
 4. Provide a clear description of your idea and explain the problem it solves or the value it adds.
